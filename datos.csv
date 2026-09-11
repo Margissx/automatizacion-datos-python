@@ -1,0 +1,8 @@
+nombre,email,edad,ciudad,fecha_registro
+Ana López, ANA@EXAMPLE.COM ,28,Tegucigalpa ,2026-01-05
+ Carlos Pérez ,carlos@example.com,treinta,san pedro sula,15/01/2026
+María Gómez,maria@example.com,, tegucigalpa,2026/01/07
+José Martínez,jose@example.com,35,Tegucigalpa,2026-01-08
+ José Martínez , JOSE@EXAMPLE.COM ,35 años,Tegucigalpa ,08-01-2026
+Lucía Reyes,lucia@example.com,31,San Pedro Sula,2026-01-09
+Pedro Castillo,pedro@example.com,42,,2026-01-10
